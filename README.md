@@ -17,7 +17,7 @@ Este script instala **Wine TKG wow64** en Ubuntu de manera sencilla y sin modifi
 
 ---
 
-## 📋 Requisitos
+## 📋 Requisitos (que ya deberias tener en ubuntu noble por default)
 - **Ubuntu** (probado en arquitecturas `x86_64`).
 - Dependencias necesarias:
   ```bash

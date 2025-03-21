@@ -347,7 +347,7 @@ setup_dxvk() {
         return 1
     fi
 
-    winetricks dxvk
+    winetricks dxvk2051
 }
 
 setup_wayland() {
